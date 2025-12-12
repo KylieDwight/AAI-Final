@@ -1,7 +1,19 @@
 The goal of this project was to create an AI model that can classify tumor types in brain MRI scans. To try to add diversity, I combined multiple data sources. I found that
 to keep it diverse and accurate, much more data is required. 
 
-To run the code, I installed Python 3.13 and created a virtual environment in Visual Studio.
+To run the code, install Python 3.13 and creat a virtual environment in Visual Studio.
+In VS code, install python extension and jupyter notebooks extension.
+In the terminal, use pip install...
+
+tensorflow
+
+matplotlib
+
+scikit-learn
+
+seaborn
+
+
 Requirements:
 absl-py                 2.3.1
 asttokens               3.0.1
